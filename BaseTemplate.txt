@@ -187,8 +187,7 @@ snmp-server enable traps snmp linkup linkdown
 snmp-server host 10.200.16.200 traps version 3 priv TRAP
 !
 banner motd ^
-This computer system is property of the United States Department of Justice.
-The Department may monitor any system activity and retrieve any information stored within this system for law enforcement, adherence to acceptable use policy, or other purposes. By using this computer system, you are consenting to such monitoring and information retrieval. Users should have no expectation of privacy regarding information stored, processed, or communicated with this computer system, including removable media. Unauthorized use, or attempted unauthorized use, of this computer system may subject the user to criminal prosecution and criminal or civil penalties.
+Login disclaimer Banner here
 ^
 !
 line con 0
